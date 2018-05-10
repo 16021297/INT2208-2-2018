@@ -6,3 +6,8 @@ Trong thời gian 15 tuần của môn học, em đã thực hiện các công v
 	+ Làm bài tập cá nhân: https://github.com/juartaurus98/INT2208-2-2018/tree/master/VuSyKien/BTCN
 	+ Tham gia làm bài tập nhóm: https://github.com/truonganhhoang/INT2208-2-2018/tree/master/nhom-Godlike
 Tổng kết: Qua khóa học Công nghệ phần mềm, em đã học được thêm kiến thức về xây dựng trang web, đồng thời trải nghiệm làm việc nhóm, trang bị thêm kĩ năng mềm cho bản thân.
++
++# chấm chéo:
++ Người chấm: Nguyễn Thị Hường
++ Điểm:9
++ Nhận xét: Hoàn thành tốt các khóa học và bài tập thầy giao, là nhóm trưởng trong nhóm và tham gia tích cực và giúp các bạn trong nhóm hoàn thành bài tập lớn, báo cáo và tóm tắt khóa học.
